@@ -18,8 +18,7 @@
 
 	h1 {
 		margin: 30px;
-		font-family: "Lobster", cursive;
-		text-shadow: 5px 0 #232931;
+		font-family: "Lobster";
 		font-size: 4.5rem;
 		color: #557571;
 		text-align: center;
@@ -28,7 +27,7 @@
 	p {
 		font-size: 2rem;
 		color: #557571;
-		font-family: "Indie Flower", cursive;
+		font-family: "Indie Flower";
 	}
 
 	img {
@@ -41,7 +40,7 @@
 
 	.butn {
 		background: #557571;
-		font-family: "Indie Flower", cursive;
+		font-family: "Indie Flower";
 		border-radius: 7px;
 		color: #ffff;
 		font-size: 30px;
@@ -50,7 +49,7 @@
 	}
 	.butn1 {
 		background: #557571;
-		font-family: "Indie Flower", cursive;
+		font-family: "Indie Flower";
 		border-radius: 7px;
 		color: #ffff;
 		font-size: 30px;
